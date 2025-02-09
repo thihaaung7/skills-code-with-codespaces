@@ -16,6 +16,16 @@
   </a>
 </div>
 
+ ![](https://komarev.com/ghpvc/?username=thihaaung7&abbreviated=true)
+
+<div align="center">
+  
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 <!--
   <<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
