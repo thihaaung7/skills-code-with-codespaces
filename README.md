@@ -19,8 +19,8 @@
 <div align="center">
  ![](https://komarev.com/ghpvc/?username=thihaaung7&abbreviated=true)
 </div>
+
 <div align="center">
-  
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
