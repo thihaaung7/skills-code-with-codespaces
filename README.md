@@ -68,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fthihaaung7&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/thihaaung7&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
   <<< Author notes: Course header >>>
