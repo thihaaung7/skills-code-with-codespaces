@@ -68,6 +68,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fthihaaung7&theme=dark)](https://git.io/streak-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaaung7)](https://github.com/anuraghazra/github-readme-stats)
 
 
