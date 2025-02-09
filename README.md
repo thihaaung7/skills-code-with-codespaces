@@ -70,6 +70,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thihaaung7&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fthihaaung7&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
   <<< Author notes: Course header >>>
