@@ -16,9 +16,9 @@
   </a>
 </div>
 
-<div align="center">
+<p style="text-align:center">
  ![](https://komarev.com/ghpvc/?username=thihaaung7&abbreviated=true)
-</div>
+</p>
 
 <div align="center">
 <h1>
